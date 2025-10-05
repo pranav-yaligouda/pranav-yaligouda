@@ -1,13 +1,13 @@
-# í±‹ Hey there! I'm Pranav Yaligouda
+# ï¿½ï¿½ï¿½ Hey there! I'm Pranav Yaligouda
 
-í²» Full Stack Developer | íº€ DevOps Enthusiast | í´– AI Innovator  
-í¼ Based in India | í³§ pranavyaligouda7@gmail.com  
+ï¿½ï¿½ï¿½ Full Stack Developer | ï¿½ï¿½ï¿½ DevOps Enthusiast | ï¿½ï¿½ï¿½ AI Innovator  
+ï¿½ï¿½ï¿½ Based in India | ï¿½ï¿½ï¿½ pranavyaligouda7@gmail.com  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DevOps+Engineer;AI+Project+Builder)](https://git.io/typing-svg)
 
 ---
 
-### í·° Tech Stack
+### ï¿½ï¿½ï¿½ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -16,16 +16,16 @@
 
 ---
 
-### í³Š GitHub Stats
+### ï¿½ï¿½ï¿½ GitHub Stats
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavyaligouda&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavyaligouda&layout=compact&theme=tokyonight)
 
 ---
 
-### íº€ Featured Projects
-- [í¼¾ AgriMart](https://github.com/pranavyaligouda/AgriMart)
-- [í²° AI Finance Manager](https://github.com/pranavyaligouda/finance-manager)
-- [í´– Deepfake Detection System](https://github.com/pranavyaligouda/deepfake-detector)
+### ï¿½ï¿½ï¿½ Featured Projects
+- [ï¿½ï¿½ï¿½ AgriMart](https://github.com/pranavyaligouda/AgriMart)
+- [ï¿½ï¿½ï¿½ AI Finance Manager](https://github.com/pranavyaligouda/finance-manager)
+- [ï¿½ï¿½ï¿½ Deepfake Detection System](https://github.com/pranavyaligouda/deepfake-detector)
 
 ---
 
@@ -37,5 +37,5 @@
 ---
 
 ### âš¡ Fun Fact
-I can debug faster with coffee â˜• than without code í¸„
+I can debug faster with coffee â˜• than without code ï¿½ï¿½ï¿½
 
